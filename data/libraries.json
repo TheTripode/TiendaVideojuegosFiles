@@ -1,0 +1,14 @@
+[
+  {
+    "accountId": 1,
+    "videogameId": 1,
+    "purchaseDate": "2026-11-09",
+    "hoursPlayed": 120.50
+  },
+  {
+    "accountId": 1,
+    "videogameId": 2,
+    "purchaseDate": "2026-11-09",
+    "hoursPlayed": 45.00
+  }
+]

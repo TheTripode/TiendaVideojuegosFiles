@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "accountId": 1,
+    "videogameId": 1,
+    "recommended": true,
+    "comment": "Muy bueno",
+    "publicationDate": "2026-11-09"
+  },
+  {
+    "id": 2,
+    "accountId": 2,
+    "videogameId": 1,
+    "recommended": true,
+    "comment": "Me encanta",
+    "publicationDate": "2026-11-09"
+  }
+]

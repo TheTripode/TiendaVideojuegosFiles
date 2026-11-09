@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Elden Ring: GOTY Edition",
+    "price": {
+      "value": 69.99
+    },
+    "releaseDate": "2022-02-25",
+    "developerId": 1,
+    "categoryIds": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Hollow Knight",
+    "price": {
+      "value": 14.99
+    },
+    "releaseDate": "2017-02-24",
+    "developerId": 2,
+    "categoryIds": [
+      2
+    ]
+  }
+]
